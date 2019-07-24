@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Pagina de prueba IMGS</title>
+</head>
+<body>
+
+	<img src="images/firefox-icon.png"  alt="esto es un icono de firefox, muestra a un zorro de fuego alredor de la bola del mundo" width="100"  height="100"></div>
+
+</body>
+</html>
